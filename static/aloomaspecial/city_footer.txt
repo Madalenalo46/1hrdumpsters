@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Do I need to be physically present when the dumpster is delivered?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, you do not. As long as you have provided us with clear and specific instructions for the placement of the roll off, and the designated area is completely free of any obstructions (like cars or overhead wires), our driver can complete the delivery without you being there.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is there a way to protect my driveway from scratches?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. While our drivers are very careful, we always recommend placing a few pieces of plywood or some 2x6 boards on your driveway where the roll off container's steel feet will rest. This simple step is a great way to distribute the weight and provide an effective barrier against scratches.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I know if I need a permit from my city for the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The need for a permit is determined by where the roll off container will be placed. If it can be set entirely on your private property (like your driveway), you typically do not need a permit. However, if any part of the dumpster will occupy a public space, such as a street or sidewalk, a permit from your local municipality is almost always required.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do your payment and billing processes work?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For ultimate convenience and to secure your delivery slot, we require payment at the time of your order. We accept all major credit cards over the phone. Your quoted price is inclusive of delivery, pickup, and the specified weight allowance, so there are no surprises.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is there an extra charge for a Saturday delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. We believe that projects don't just happen from Monday to Friday. We proudly offer our standard, competitive pricing for all deliveries and pickups scheduled during our normal Saturday business hours.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do you determine where the dumpster can be safely placed on my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our drivers are the experts and will make the final determination based on safety. The ideal spot is a hard, level surface with no overhead obstructions. They will assess ground stability, accessibility for the truck, and proximity to property lines to find the safest and most convenient location for your roll off.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>

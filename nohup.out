@@ -1,0 +1,2 @@
+/var/www/html/1hrdumpsters/1hrdumpsters.py:48: SyntaxWarning: invalid escape sequence '\s'
+  processing_handler= '''<div id="output"></div>
